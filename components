@@ -1,0 +1,8 @@
+<script>start("/Users/fadelturman/Desktop/FTC/modern-web-app/src/components/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("DataVisualization.tsx","DataVisualization.tsx",0,1061,"1.0 kB",1745855324,"4/28/25, 11:48:44 AM");</script>
+<script>addRow("Footer.tsx","Footer.tsx",0,287,"287 B",1745785308,"4/27/25, 4:21:48 PM");</script>
+<script>addRow("Header.tsx","Header.tsx",0,779,"779 B",1745785302,"4/27/25, 4:21:42 PM");</script>
+<script>addRow("Sidebar.tsx","Sidebar.tsx",0,1123,"1.1 kB",1745786043,"4/27/25, 4:34:03 PM");</script>
+<script>addRow("TransactionForm.tsx","TransactionForm.tsx",0,1976,"1.9 kB",1745785306,"4/27/25, 4:21:46 PM");</script>
+<script>addRow("TransactionList.tsx","TransactionList.tsx",0,1007,"1007 B",1745855324,"4/28/25, 11:48:44 AM");</script>
